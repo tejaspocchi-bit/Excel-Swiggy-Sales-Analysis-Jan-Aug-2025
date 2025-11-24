@@ -54,7 +54,7 @@ The goal of this project is to transform raw food delivery data into actionable 
 
 📁 Project Files
 
-📊 [Download Dashboard](Swiggy_Sales_Dashboard.xlsx)
+📊 [Download Dashboard]([Swiggy_Sales_Dashboard.xlsx](https://github.com/tejaspocchi-bit/Excel-Swiggy-Sales-Analysis-Jan-Aug-2025/blob/main/Swiggy%20Dashboard%20Data%20Excel.xlsx))
 
 🗂️ [Dataset Folder](dataset/)
 

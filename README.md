@@ -62,6 +62,7 @@ The goal of this project is to transform raw food delivery data into actionable 
 
 🖼️ Screenshots:
 - ![Dashboard]("C:\Users\tejas\OneDrive\Pictures\Screenshots\Screenshot 2025-11-24 224236.png")
+<img width="1093" height="631" alt="Dashboard Image" src="https://github.com/user-attachments/assets/acf9abbc-5454-448c-b8f2-beb4e40ab8ce" />
 
 
 

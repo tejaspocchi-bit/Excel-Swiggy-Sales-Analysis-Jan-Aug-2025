@@ -54,11 +54,11 @@ The goal of this project is to transform raw food delivery data into actionable 
 
 📁 Project Files
 
-📊 [Download Dashboard]("C:\DA Project\Excel_Project\Swiggy Order Data Analysis\Swiggy Dashboard Data Excel.xlsx")
+📊 [Download Dashboard](Swiggy_Sales_Dashboard.xlsx)
 
-🗂️ [Dataset Folder]("C:\DA Project\Excel_Project\Swiggy Order Data Analysis\Swiggy Raw Data Excel.xlsx")
+🗂️ [Dataset Folder](dataset/)
 
-📄 [BRD Document]("C:\DA Project\Excel_Project\Swiggy Order Data Analysis\Swiggy_BRD.pdf.pdf")
+📄 [BRD Document](BRD/BRD_Swiggy_Sales_Analysis.pdf)
 
 🖼️ Screenshots:
 - ![Dashboard]("C:\Users\tejas\OneDrive\Pictures\Screenshots\Screenshot 2025-11-24 224236.png")
